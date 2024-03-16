@@ -9,5 +9,4 @@ public class SpringBootHitHomeWorkApplication {
     public static void main(String[] args) {
         SpringApplication.run(SpringBootHitHomeWorkApplication.class, args);
     }
-
 }
